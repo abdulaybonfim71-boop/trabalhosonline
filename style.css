@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eaf5ee;
+}
+
+.card {
+    background: white;
+    width: 320px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.sub {
+    color: #666;
+    font-size: 14px;
+}
+
+.lista p {
+    display: flex;
+    justify-content: space-between;
+    margin: 6px 0;
+}
+
+.total {
+    font-weight: bold;
+    font-size: 18px;
+    color: green;
+}
+
+.btn {
+    display: block;
+    margin-top: 20px;
+    padding: 12px;
+    background: green;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.aviso {
+    font-size: 11px;
+    color: #999;
+    margin-top: 10px;
+}
